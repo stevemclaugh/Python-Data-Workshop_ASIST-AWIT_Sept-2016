@@ -3,7 +3,7 @@ Initial Setup
 
 Note: The following walkthrough applies to Mac OS X. If you're using Windows,
 install Python and Jupyter using
-Anaconda:<https://www.continuum.io/downloads#windows>
+Anaconda: <https://www.continuum.io/downloads#windows>
 
 Open a new terminal window. Launch `Terminal` in OS X, located at
 `/Applications/Utilities/Terminal.app`
