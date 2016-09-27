@@ -2,8 +2,8 @@ Initial Setup
 -------------
 
 Note: The following walkthrough applies to Mac OS X. If you're using Windows,
-install Python and Jupyter using
-Anaconda: <https://www.continuum.io/downloads#windows>
+install Python and Jupyter using Anaconda:
+<https://www.continuum.io/downloads#windows>
 
 Open a new terminal window. Launch `Terminal` in OS X, located at
 `/Applications/Utilities/Terminal.app`
@@ -94,9 +94,7 @@ Other Recommended Software
 
 #### **Text Editor**
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Mac's TextExit will let you edit plain text files in a pinch, but these two programs are much better for working with code. TextWrangler is clean, pretty, and good for beginners. Geany is a full-featured open-source alternative.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ▸ TextWrangler: http://www.barebones.com/products/textwrangler/
 
@@ -104,9 +102,7 @@ Mac's TextExit will let you edit plain text files in a pinch, but these two prog
 
 #### **Tabular Data**
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 You should have a spreadsheet program (Excel or Calc) handy to work with tabular data. OpenRefine, designed for very large tables, offers more advanced data cleaning features.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ▸ OpenRefine: http://openrefine.org/download.html
 
